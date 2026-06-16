@@ -86,10 +86,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Special thanks to [daprior](https://github.com/daprior/danielprior-macos) for the original inspiration for this macOS-themed portfolio concept.
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/daprior/danielprior-macos/issues).
-
 ## 📧 Contact
 
 Daniel Prior - [huseynovfarid1111@gmail.com](mailto:huseynovfarid1111@gmail.com)
