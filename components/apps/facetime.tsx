@@ -248,7 +248,7 @@ export default function SpaceCV({ isDarkMode = true }: SpaceCVProps) {
                   <div className="flex flex-wrap items-baseline justify-between gap-x-2">
                     <h3 className="text-base font-bold text-white">Java Software Engineer Intern (Part-time)</h3>
                     <span className="text-xs font-mono bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 px-2 py-0.5 rounded">
-                      Nov 2025 – Apr 2026
+                      Feb 2026 – Apr 2026
                     </span>
                   </div>
                   <div className="text-sm text-sky-400 font-mono mb-2">Rakuten Ichiba Division | Tokyo, Japan (Remote)</div>
