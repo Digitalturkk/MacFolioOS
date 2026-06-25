@@ -63,7 +63,7 @@ GitHub: github.com/digitalturkk`,
     {
       id: 2,
       title: "Work Experience",
-      content: `  Java Software Engineer Intern (Part-time) | Nov 2025 – Apr 2026
+      content: `  Java Software Engineer Intern (Part-time) | Feb 2026 – Apr 2026
     Rakuten Ichiba Division | Tokyo, Japan (Remote)
 
  Assisted in the development and maintenance of high-traffic backend services for Japan's largest e-commerce ecosystem, using Java 17 and Spring Boot. 
