@@ -14,16 +14,16 @@ Demo Link: https://mac-folio-os.vercel.app/
 - 🚀 Interactive desktop experience with working windows
 - 🔍 Spotlight search functionality
 - 🧩 Multiple apps to showcase your skills and projects:
-  - Safari (For browsing)
+  - Safari
   - Notes (for bio/resume/about)
   - Terminal (interactive command line)
   - VSCode (code samples)
   - Mail (contact link)
   - GitHub (profile link)
   - Spotify (music player)
-  - YouTube (video channel)
-  - FaceTime (video chat demo)
-  - Snake (just for fun)
+  - YouTube (YouTube channel link)
+  - Resume
+  - Snake
   - Weather (mock data)
 - 🎛️ Working Control Center with brightness and volume controls
 - 🔄 Boot, login, sleep, and shutdown sequences
